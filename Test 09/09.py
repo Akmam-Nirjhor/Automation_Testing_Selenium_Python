@@ -8,7 +8,7 @@ driver.get("https://google.com")
 driver.find_element("name","q").send_keys("https://www.bdbooking.com/")
 driver.find_element(By.NAME,"btnK").submit()
 driver.get("https://www.bdbooking.com/")
-driver.get(" https://www.bdbooking.com/Spot/Bangladesh/Sundarban ")
+driver.get(" https://www.bdbooking.com/Spot/Bangladesh/Sundarban")
 
 
 
